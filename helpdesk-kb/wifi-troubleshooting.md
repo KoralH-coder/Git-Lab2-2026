@@ -1,4 +1,4 @@
-# Wi‑Fi Troubleshooting Guide
+# Wi‑Fi Troubleshooting \[FIXED] Guide
 
 ## Current Revision
 
@@ -29,6 +29,4 @@ If the issue persists after all troubleshooting steps have been completed, conta
 Slow Wireless Connections
 
 \[Insert text for slow wireless connection]
-
-
 
