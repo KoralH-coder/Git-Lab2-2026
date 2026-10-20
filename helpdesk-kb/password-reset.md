@@ -16,3 +16,5 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+[insert new step for password reset procedure]
