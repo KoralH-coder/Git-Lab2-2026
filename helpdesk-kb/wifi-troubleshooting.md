@@ -26,5 +26,9 @@ No issues currently documented.
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
 
+Slow Wireless Connections
+
+\[Insert text for slow wireless connection]
+
 
 
